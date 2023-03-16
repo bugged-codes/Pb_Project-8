@@ -1,0 +1,24 @@
+{
+  "name": "8-blog_server-node",
+  "version": "1.0.0",
+  "description": "This is a backend server for blog app which is created in react-js.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["server", "backend", "blog-app", "node", "pb_project"],
+  "author": "Vipul",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bugged-codes/Pb_Project-8.git"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.21"
+  },
+  "homepage": "https://github.com/bugged-codes/Pb_Project-8/tree/server#readme"
+}
